@@ -1,0 +1,23 @@
+
+h1, p {
+  font-family: Lato;
+}
+
+.rows .row {
+  display: inline-block;
+  width:25%;
+  
+}
+.rows {
+background-color: ghostwhite;
+text-align: center;
+}
+.rowsHeder .row  {
+  display: inline-block;
+  width:25%;
+}
+
+.rowsHeder {
+  background-color: gray;
+  text-align: center;
+}
